@@ -17,7 +17,7 @@
     <dependency>
     	<groupId>org.apache.httpcomponents</groupId>
     	<artifactId>httpclient</artifactId>
-    	<version>4.3.5</version>
+    	<version>4.5.13</version>
     </dependency>
     <dependency>
     	<groupId>org.springframework</groupId>
@@ -32,12 +32,12 @@
     <dependency>
     	<groupId>org.springframework</groupId>
     	<artifactId>spring-context</artifactId>
-    	<version>3.2.11.RELEASE</version>
+    	<version>5.2.19.RELEASE</version>
     </dependency>
     <dependency>
     	<groupId>org.springframework</groupId>
     	<artifactId>spring-context-support</artifactId>
-    	<version>3.2.11.RELEASE</version>
+    	<version>5.2.19.RELEASE</version>
     </dependency>
     <dependency>
     	<groupId>log4j</groupId>
@@ -57,7 +57,7 @@
     <dependency>
     	<groupId>org.apache.httpcomponents</groupId>
     	<artifactId>httpmime</artifactId>
-    	<version>4.3.5</version>
+    	<version>4.5.13</version>
     </dependency>
   </dependencies>
 </project>
